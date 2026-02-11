@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles (optional)
+ * You can add additional styles here or import
+ * component-specific CSS files. Tailwind utilities
+ * should cover most styling needs.
+ */
